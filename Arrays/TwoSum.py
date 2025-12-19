@@ -38,4 +38,3 @@ if __name__ == "__main__":
     target2 = 6
     print(f"Input: {nums2}, Target: {target2}")
     print(f"Output: {solution.twoSum(nums2, target2)}")
-
